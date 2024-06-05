@@ -28,3 +28,7 @@ This project leverages the advanced capabilities of the YOLO v7 model to enhance
 - Ensures quick response times to potential security threats.
 
 This project combines the powerful object detection capabilities of YOLO v7 with advanced facial recognition technology to create a robust system for safeguarding sensitive work environments. It aims to protect employees' privacy and prevent unauthorized access or surveillance within the workplace.
+
+Contributors:
+* Aditya Sai SD
+* B Shakthi
