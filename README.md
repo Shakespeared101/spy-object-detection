@@ -1,6 +1,6 @@
 # Project Description: YOLO v7-Based Workplace Surveillance System
 
-This project leverages the advanced capabilities of the YOLO v7 model and parallely processes 3 different YOLO v7 models for phone,camera and mirror detection respectively to enhance workplace security by detecting malicious recording and spying objects. The system is designed to identify potential threats such as mirrors, cameras, and phones placed near employee workstations. Additionally, it incorporates a face recognition module to monitor employee presence and detect any unauthorized individuals.
+This project leverages the advanced capabilities of the YOLO v7 model and parallely processes 3 different YOLO v7 models for phone,camera and mirror detection respectively to enhance workplace security by detecting malicious recording and spying objects. The system is designed to identify potential threats such as mirrors, cameras, and phones placed near employee workstations. 
 
 ## Key Features
 
