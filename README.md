@@ -10,12 +10,6 @@ This project leverages the advanced capabilities of the YOLO v7 model and parall
 - Identifies objects like mirrors, cameras, and phones that could be used for unauthorized recording or monitoring.
 - Ensures that these objects are detected if they are placed in view of the employee’s workstation.
 
-### Employee Presence Verification
-
-- Integrates face recognition software to verify the identity of individuals at workstations.
-- Detects whether an authorized employee is present and actively working.
-- Identifies and alerts security personnel if an unknown person is observed near the workstation or looking at the monitor.
-
 ### Enhanced Security
 
 - Provides a comprehensive solution to mitigate the risks of industrial espionage and privacy breaches.
